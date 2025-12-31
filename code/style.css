@@ -1,6 +1,9 @@
 /* After you've linked the CSS file in the HTML,
 this should turn the background blue ;) */
 
+body {
+  background: linear-gradient(100deg, #71b7e6, #9b59b6);
+}
 
 form {
   border: 1px solid #e8e8fb;
