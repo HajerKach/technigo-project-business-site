@@ -2,12 +2,21 @@
 this should turn the background blue ;) */
 
 body {
-  background: linear-gradient(100deg, #71b7e6, #9b59b6);
+  background-image: url(book.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: none;
   display: flex;
-  justify-content: center;
+  flex-direction: column;
   align-items: center;
-  font-size: 7px;
+  font-size: 10px;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+  font-size: 15px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
 }
 
 form {
@@ -20,12 +29,6 @@ form {
 
 * {
   box-sizing: border-box;
-}
-
-h2 {
-  text-transform: uppercase;
-  font-size: 15 px;
-  margin-top: 0;
 }
 
 fieldset {
@@ -59,7 +62,7 @@ span {
 
 input {
   width: 100%;
-  font-size: 15 px;
+  font-size: 15px;
   padding: 10px 0;
   border: none;
   outline: none;
