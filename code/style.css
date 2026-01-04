@@ -49,11 +49,11 @@ body {
 
 /* Knappen */
 .hero-btn {
-  background: linear-gradient(135deg, #ff7a18, #ffb347);
+  background: linear-gradient(135deg, #edbb98, #ffb347);
   border: none;
   padding: 1rem 2.2rem;
   font-size: 1rem;
-  border-radius: 30px;
+  border-radius: 10px;
   color: white;
   cursor: pointer;
   transition: transform 0.3s, box-shadow 0.3s;
