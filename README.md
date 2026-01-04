@@ -1,10 +1,9 @@
-# Business Site
+# Book circle club
 
-Replace this readme with your own information about the project. You can include things like:
+This is my first business sit, for people to join a book circle club. 
+The first page is a hero section where you have to click join and there you get a form to fill in and submit.
+Validation will be donn in a http site.
 
-- Brief description of the assignment
-- How you approached the task, what tools and techniques you used, and how you planned it
-- If you had more time, what would be next?
+I took help from chatgpt for more design idies. 
 
-## View it live
-Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
+This project has not been deployed yet. 
